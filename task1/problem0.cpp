@@ -13,7 +13,4 @@ int main()
     //Greeting th user
 
     cout << "Hello, " << name << "!" <<endl;
-
-    return 0,
-    
 }
