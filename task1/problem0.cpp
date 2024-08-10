@@ -7,7 +7,7 @@ int main()
 
     // Getting the user's name
 
-    cout << "Enter your name: ";
+    cout << "Enter your name : ";
     getline(cin, name);
 
     //Greeting th user
