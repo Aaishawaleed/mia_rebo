@@ -1,0 +1,40 @@
+ls
+show the files in the current dir
+
+ cd
+
+cd (file name/): go to that file or dir
+cd .. : return to the previous file or dir
+
+ pwd
+ 
+to know the path you are in
+
+mkdir
+
+to create a new directory
+
+rm
+
+rm (file name) to remove the file
+rm -r dir name : to remove dir
+
+cp
+
+to copy files of dir 
+
+
+mv 
+
+
+mv (old name) (new name): to rename the file
+mv file / new/dir :  to move file to dir
+
+cat 
+
+to show the content of file in the teminal
+
+nano
+
+to edit the content
+
