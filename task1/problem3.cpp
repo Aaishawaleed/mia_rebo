@@ -39,6 +39,4 @@ int main()
 
     cout << "the max height is: " << max_height <<endl;
 
-    return 0;
-
 }
